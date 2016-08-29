@@ -1,0 +1,6 @@
+c:\users\vkamat\documents\visual studio 2015\Projects\Codejam\Codejam\bin\Debug\Codejam.exe.config
+c:\users\vkamat\documents\visual studio 2015\Projects\Codejam\Codejam\bin\Debug\Codejam.exe
+c:\users\vkamat\documents\visual studio 2015\Projects\Codejam\Codejam\bin\Debug\Codejam.pdb
+c:\users\vkamat\documents\visual studio 2015\Projects\Codejam\Codejam\obj\Debug\Codejam.csprojResolveAssemblyReference.cache
+c:\users\vkamat\documents\visual studio 2015\Projects\Codejam\Codejam\obj\Debug\Codejam.exe
+c:\users\vkamat\documents\visual studio 2015\Projects\Codejam\Codejam\obj\Debug\Codejam.pdb
